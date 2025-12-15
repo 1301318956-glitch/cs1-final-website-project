@@ -1,11 +1,13 @@
 body {
-    font-family:'Lucida Sans','Lucida Grande', 'Lucida Sans Unicode', sans-serif;
-    background-color: #770000;
+    .minecraft-text {
+    font-family: 'Press Start 2P', monospace;
+    font-size: 18px;
+    background-color: #5c34ff;
     margin: 20px;
 }
 
 h1 {
-    color:rgb(22, 14, 84);
+    color:rgb(0, 166, 255);
 }
 
 .my-image {
@@ -14,16 +16,23 @@ h1 {
 
 .my-image {
     width:999px
-}
+}    
 
-.page2-container {
-    background-color: rgb(48, 57, 213);
-    padding: 30px;
-    margin: 20px;
-}
-
-.page2-title {
-    color: rgb(237, 149, 16);
+.page2 {
     font-size: 28px;
-    text-align: center;
+    background-color: #ffffff;
 }
+
+.minecraft-text {
+    font-family: 'Press Start 2P', monospace;
+    font-size: 16px;
+}
+
+h2 {
+    color:#5c34ff
+}
+
+
+
+
+
